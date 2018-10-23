@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE website
+[
+<!ELEMENT website (menu_item+, name+, type*, description*)
+<!ELEMENT menu_item category PCDATA "about"
+<!ELEMENT menu_item category PCDATA "service"
+<!ELEMENT menu_item category PCDATA "testimonial"
+<!ELEMENT menu_item category PCDATA "contact"
+<!ELEMENT name (#PCDATA)
+<!ELEMENT description (#PCDATA)
+]

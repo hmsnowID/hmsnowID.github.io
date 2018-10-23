@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<website>
+  <menu_item category="about">
+    <name>Lorrie Saito</name>
+    <description>Lorrie Saito: After more than ten years' experience as a trainer and facilitator
+    Lorrie works with small- and medium-sized businesses who want to improve
+    company culture, processes, and profitability.</description>
+  </menu_item>
+  <menu_item category="services">
+    <name>Change Leadership</name>
+      <description>Using a change model, I will help you uncover predictable
+      change patterns and behaviors that enhance or inhibit your ability to
+      manage change; and I will consult with business leaders to help you leaders
+      others effectively during times of change.</description>
+  </menu_item>
+  <menu_item category="services">
+    <name>Learning and Development</name>
+      <description>Using my extensive background, I can consult with businesses
+      leaders to recommend and deliver the most effective learning and Development
+      solutions to meet business needs; deliver classroom training experiences;
+      facilitate small and large groups for optimum results; and design training
+      curriculum that engages the learner.</description>
+  </menu_item>
+  <menu_item category="services">
+    <name>Speaking Engagements>
+      <description>Coming Soon</description>
+  </menu_item>
+  <menu_item category="testimonial">
+    <name>Coming Soon</name>
+  </menu_item>
+  <menu_item category="contact">
+    <name>LinkedIn</name>
+  </menu_item>
+  <menu_item category="contact">
+    <name>Email</name>
+  </menu_item>
+</website>
